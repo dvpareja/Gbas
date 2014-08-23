@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<joomla>
+    <component>
+        <name>gbas</name>
+        <lowname>gbas</lowname>
+        <uppername>GBAS</uppername>
+        <version>0.0.1</version>
+        <projectDir>/home/darth/NetBeansProjects/iDaruma/Gbas/Gbas</projectDir>
+    </component>
+</joomla>
